@@ -4,3 +4,8 @@ When working on a team it is better to have an online repository to keep everyth
 centralized and accessible. Sometimes you might need to use different work stations and
 a remote repository is more practical.
 
+
+# Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Your local repository might not be ready for release to the public. It's better to do this manually
+and control all releases to the public. You can keep the releases logical too.
