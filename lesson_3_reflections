@@ -1,0 +1,6 @@
+# When would you want to use a remote repository rather than keeping all your work local?
+
+When working on a team it is better to have an online repository to keep everything
+centralized and accessible. Sometimes you might need to use different work stations and
+a remote repository is more practical.
+
