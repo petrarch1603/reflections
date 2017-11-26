@@ -16,3 +16,8 @@ and control all releases to the public. You can keep the releases logical too.
 Fork - it is a clone that is located on Github's servers. It keeps track of who you forked it from.
 Clone - A copy of another repository.
 Branch - A separate production of a code at a certain point in time.
+
+
+# What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It can be used and worked on without internet access.
