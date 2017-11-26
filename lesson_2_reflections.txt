@@ -2,3 +2,10 @@
 
 Initializing a repository creates a structured repository with git metadata.
 You need to do it to start the project and keep it organized. 
+
+
+# How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is the gateway to the repository. It allows you to have control over the commit process.
+In a project with a lot of files and moving parts it allows you to explicitly choose which files to add
+and to include a clear commit message.
