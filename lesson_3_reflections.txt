@@ -28,3 +28,11 @@ It can be used and worked on without internet access.
 Without GitHub I would have to collaborate over email or face to face.
 It would be much harder to stay organized and avoid conflicts.
 There would have to be very strict procedures and workflows. It would not be efficient.
+
+
+# When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Separate branches are useful for using in a development environment. The master branch needs to be in production
+mode and it cannot be broken while testing new features.
+The problem is that sometimes separate branches can develope independently and lead to conflicts if the same code is changed
+from one branch to the master.
