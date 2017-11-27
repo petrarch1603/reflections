@@ -21,3 +21,10 @@ Branch - A separate production of a code at a certain point in time.
 # What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It can be used and worked on without internet access.
+
+
+# How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without GitHub I would have to collaborate over email or face to face.
+It would be much harder to stay organized and avoid conflicts.
+There would have to be very strict procedures and workflows. It would not be efficient.
